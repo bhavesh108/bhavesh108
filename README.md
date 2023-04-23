@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Bhuva</h1>
-<h3 align="center">Senior Full Stack Shopify Developer</h3>
+<h3 align="center">Senior Full Stack Shopify Developer | Solution Architect </h3>
 
 - 🔭 I’m currently working on **Multiple Shopify Brands**
 
