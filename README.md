@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Shopify, API integration, Custom Feature Development and Solution**
 
-- 📫 How to reach me **bhaveshbhuva108@gmail.com**
-
 - ⚡ Fun fact **I love small changes in eCommerce site as small changes can make a big impact on sales and customer satisfaction.**
 
 <h3 align="left">Connect with me:</h3>
